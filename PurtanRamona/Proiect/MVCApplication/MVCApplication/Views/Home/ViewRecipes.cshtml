@@ -1,0 +1,65 @@
+﻿@model IEnumerable<MVCApplication.Models.RecipeModel>
+
+@{
+    ViewBag.Title = "View Recipes";
+}
+
+<h2>ViewRecipes</h2>
+
+<p>
+    @Html.ActionLink("Recipes", "Recipe")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MedicalRecords)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Diagnostic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prescriptions)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Age)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MedicalRecords)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Diagnostic)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prescriptions)
+        </td>
+       
+    </tr>
+}
+
+</table>
