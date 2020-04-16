@@ -1,0 +1,17 @@
+C:\Users\Ramona\Desktop\MVCApplication\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Ramona\Desktop\MVCApplication\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Ramona\Desktop\MVCApplication\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Ramona\Desktop\MVCApplication\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Ramona\Desktop\MVCApplication\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Ramona\Desktop\MVCApplication\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Ramona\Desktop\MVCApplication\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Ramona\Desktop\MVCApplication\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache

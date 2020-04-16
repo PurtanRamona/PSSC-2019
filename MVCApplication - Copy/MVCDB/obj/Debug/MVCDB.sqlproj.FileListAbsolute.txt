@@ -1,0 +1,26 @@
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\bin\Debug\MVCDB.dacpac
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\bin\Debug\MVCDB.dll
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\bin\Debug\MVCDB.pdb
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\obj\Debug\MVCDB.sqlprojAssemblyReference.cache
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\obj\Debug\Model.xml
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\obj\Debug\refactor.xml
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\obj\Debug\postdeploy.sql
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\obj\Debug\predeploy.sql
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\obj\Debug\MVCDB.dll
+C:\Users\Ramona\Desktop\MVCApplication\MVCDB\obj\Debug\MVCDB.pdb
+C:\Users\Ramona\Desktop\MVCApplication - Copy\MVCDB\bin\Debug\MVCDB.dacpac
+C:\Users\Ramona\Desktop\MVCApplication - Copy\MVCDB\bin\Debug\MVCDB.dll
+C:\Users\Ramona\Desktop\MVCApplication - Copy\MVCDB\bin\Debug\MVCDB.pdb
+C:\Users\Ramona\Desktop\MVCApplication - Copy\MVCDB\obj\Debug\MVCDB.sqlprojAssemblyReference.cache
+C:\Users\Ramona\Desktop\MVCApplication - Copy\MVCDB\obj\Debug\MVCDB.dll
+C:\Users\Ramona\Desktop\MVCApplication - Copy\MVCDB\obj\Debug\MVCDB.pdb
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\bin\Debug\MVCDB.dacpac
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\bin\Debug\MVCDB.dll
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\bin\Debug\MVCDB.pdb
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\obj\Debug\MVCDB.sqlprojAssemblyReference.cache
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\obj\Debug\Model.xml
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\obj\Debug\refactor.xml
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\obj\Debug\postdeploy.sql
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\obj\Debug\predeploy.sql
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\obj\Debug\MVCDB.dll
+C:\Users\Ramona\Desktop\Facultate\PSSC-2019\MVCApplication - Copy\MVCDB\obj\Debug\MVCDB.pdb
